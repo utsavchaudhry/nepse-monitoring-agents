@@ -1,0 +1,354 @@
+symbol,company_en,sector,alias_devanagari,is_primary,reviewed
+ADBL,Agricultural Development Bank Limited,Commercial Bank,कृषि विकास बैंक,1,1
+CZBIL,Citizens Bank International Limited,Commercial Bank,सिटिजन्स बैंक इन्टरनेशनल,1,1
+EBL,Everest Bank Limited,Commercial Bank,एभरेष्ट बैंक,1,1
+GBIME,Global IME Bank Limited,Commercial Bank,ग्लोबल आइएमई बैंक,1,1
+HBL,Himalayan Bank Limited,Commercial Bank,हिमालयन बैंक,1,1
+KBL,Kumari Bank Limited,Commercial Bank,कुमारी बैंक,1,1
+LSL,Laxmi Sunrise Bank Limited,Commercial Bank,लक्ष्मी सनराइज बैंक,1,1
+MBL,Machhapuchchhre Bank Limited,Commercial Bank,माछापुच्छ्रे बैंक,1,1
+NABIL,Nabil Bank Limited,Commercial Bank,नबिल बैंक,1,1
+NBL,Nepal Bank Limited,Commercial Bank,नेपाल बैंक,1,1
+NIMB,Nepal Investment Mega Bank Limited,Commercial Bank,नेपाल इन्भेष्टमेन्ट मेगा बैंक,1,1
+SBI,Nepal SBI Bank Limited,Commercial Bank,नेपाल एसबीआई बैंक,1,1
+NICA,NIC Asia Bank Limited,Commercial Bank,एनआईसी एशिया बैंक,1,1
+NMB,NMB Bank Limited,Commercial Bank,एनएमबी बैंक,1,1
+PRVU,Prabhu Bank Limited,Commercial Bank,प्रभु बैंक,1,1
+PCBL,Prime Commercial Bank Limited,Commercial Bank,प्राइम कमर्सियल बैंक,1,1
+SANIMA,Sanima Bank Limited,Commercial Bank,सानिमा बैंक,1,1
+SBL,Siddhartha Bank Limited,Commercial Bank,सिद्धार्थ बैंक,1,1
+SCB,Standard Chartered Bank Nepal Limited,Commercial Bank,स्ट्यान्डर्ड चार्टर्ड बैंक नेपाल,1,1
+GBBL,Garima Bikas Bank Limited,Development Bank,गरिमा विकास बैंक,1,1
+JBBL,Jyoti Bikash Bank Limited,Development Bank,ज्योति विकास बैंक,1,1
+KRBL,Karnali Development Bank Limited,Development Bank,कर्णाली विकास बैंक,1,1
+NABBC,Narayani Development Bank Limited,Development Bank,नारायणी विकास बैंक,1,1
+EDBL,Excel Development Bank Limited,Development Bank,एक्सेल डेभलपमेन्ट बैंक,1,1
+SADBL,Shangrila Development Bank Limited,Development Bank,साङ्ग्रिला डेभलपमेन्ट बैंक,1,1
+MNBBL,Muktinath Bikas Bank Limited,Development Bank,मुक्तिनाथ विकास बैंक,1,1
+CORBL,Corporate Development Bank Limited,Development Bank,कर्पोरेट डेभलपमेन्ट बैंक,1,1
+SINDU,Sindhu Bikas Bank Limited,Development Bank,सिन्धु विकास बैंक,1,1
+MDB,Miteri Development Bank Limited,Development Bank,मितेरी विकास बैंक,1,1
+SHINE,Shine Resunga Development Bank Limited,Development Bank,साइन रेसुङ्गा डेभलपमेन्ट बैंक,1,1
+GRDBL,Green Development Bank Limited,Development Bank,ग्रीन डेभलपमेन्ट बैंक,1,1
+MLBL,Mahalaxmi Bikas Bank Limited,Development Bank,महालक्ष्मी विकास बैंक,1,1
+KSBBL,Kamana Sewa Bikas Bank Limited,Development Bank,कामना सेवा विकास बैंक,1,1
+LBBL,Lumbini Bikas Bank Limited,Development Bank,लुम्बिनी विकास बैंक,1,1
+SAPDBL,Saptakoshi Development Bank Limited,Development Bank,सप्तकोशी विकास बैंक,1,1
+NFS,Nepal Finance Limited,Finance,नेपाल फाइनान्स,1,1
+BFC,Best Finance Company Limited,Finance,बेस्ट फाइनान्स,1,1
+GFCL,Goodwill Finance Company Limited,Finance,गुडविल फाइनान्स,1,1
+PFL,Pokhara Finance Limited,Finance,पोखरा फाइनान्स,1,1
+SIFC,Shree Investment Finance Company Limited,Finance,श्री इन्भेष्टमेन्ट फाइनान्स,1,1
+CFCL,Central Finance Limited,Finance,सेन्ट्रल फाइनान्स,1,1
+JFL,Janaki Finance Company Limited,Finance,जानकी फाइनान्स,1,1
+SFCL,Samriddhi Finance Company Limited (former World Merchant Banking),Finance,समृद्धि फाइनान्स,1,1
+GMFIL,Guheswori Merchant Banking & Finance Limited,Finance,गुह्येश्वरी मर्चेन्ट बैंकिङ एण्ड फाइनान्स,1,1
+ICFC,ICFC Finance Limited,Finance,आईसीएफसी फाइनान्स,1,1
+MPFL,Multipurpose Finance Company Limited,Finance,मल्टिपर्पस फाइनान्स,1,1
+PROFL,Progressive Finance Limited,Finance,प्रोग्रेसिभ फाइनान्स,1,1
+MFIL,Manjushree Finance Limited,Finance,मञ्जुश्री फाइनान्स,1,1
+RLFL,Reliance Finance Limited,Finance,रिलायन्स फाइनान्स,1,1
+GUFL,Gurkhas Finance Limited,Finance,गोर्खाज फाइनान्स,1,1
+BANDIPUR,Bandipur Cable Car and Tourism Limited,Hotels & Tourism,बन्दीपुर केबलकार,1,1
+SHL,Soaltee Hotel Limited,Hotels & Tourism,सोल्टी होटल,1,1
+TRH,Taragaon Regency Hotel Limited,Hotels & Tourism,तारागाउँ रिजेन्सी होटल,1,1
+OHL,Oriental Hotel Limited,Hotels & Tourism,ओरियन्टल होटल,1,1
+CGH,Chandragiri Hills Limited,Hotels & Tourism,चन्द्रागिरी हिल्स,1,1
+KDL,Kalinchowk Darshan Limited,Hotels & Tourism,कालिन्चोक दर्शन,1,1
+CITY,City Hotel Limited,Hotels & Tourism,सिटी होटल,1,1
+NHPC,National Hydro Power Company Limited,Hydropower,नेशनल हाइड्रोपावर,1,1
+BPCL,Butwal Power Company Limited,Hydropower,बुटवल पावर,1,1
+CHCL,Chilime Hydro power Company Limited,Hydropower,चिलिमे जलविद्युत,1,1
+AHPC,Arun Valley Hydropower Development Company Limited,Hydropower,अरुण भ्याली जलविद्युत,1,1
+SJCL,Sanjen Jalavidhyut Company Limited,Hydropower,सान्जेन जलविद्युत,1,1
+SHPC,Sanima Mai Hydropower Limited,Hydropower,सानिमा माई जलविद्युत,1,1
+RHPL,Rasuwagadhi Hydropower Company Limited,Hydropower,रसुवागढी जलविद्युत,1,1
+BARUN,Barun Hydropower Company Limited,Hydropower,बरुण जलविद्युत,1,1
+UPPER,Upper Tamakoshi Hydropower Limited,Hydropower,अपर तामाकोशी जलविद्युत,1,1
+MBJC,Madhya Bhotekoshi Jalavidyut Company Limited,Hydropower,मध्यभोटेकोशी जलविद्युत,1,1
+AKPL,Arun Kabeli Power Limited,Hydropower,अरुण काबेली पावर,1,1
+API,Api Power Company Limited,Hydropower,अपी पावर,1,1
+MKJC,Mailung Khola Jal Vidhyut Company Limited,Hydropower,माइलुङ खोला जलविद्युत,1,1
+DORDI,Dordi Khola Hydropower Company Limited,Hydropower,दोर्दी खोला जलविद्युत,1,1
+TVCL,Trishuli Jal Vidhyut Company Limited,Hydropower,त्रिशूली जलविद्युत,1,1
+MHL,Mandakini Hydropower Limited,Hydropower,मन्दाकिनी जलविद्युत,1,1
+DHPL,Dibyashwari Hydropower Company Limited,Hydropower,दिव्यश्वरी जलविद्युत,1,1
+NYADI,Nyadi Hydropower Limited,Hydropower,न्यादी जलविद्युत,1,1
+NGPL,Ngadi Group Power Limited,Hydropower,ङादी ग्रुप पावर,1,1
+RADHI,Radhi Bidyut Company Limited,Hydropower,राधी विद्युत,1,1
+KKHC,Khani Khola Hydropower Company Limited,Hydropower,खानीखोला जलविद्युत,1,1
+GHL,Ghalemdi Hydro Limited,Hydropower,घलेम्दी हाइड्रो,1,1
+UMHL,United Modi Hydropower Limited,Hydropower,युनाइटेड मोदी जलविद्युत,1,1
+AKJCL,Ankhukhola Hydropower Company Limited,Hydropower,आँखुखोला जलविद्युत,1,1
+UPCL,Universal Power Company Limited,Hydropower,युनिभर्सल पावर,1,1
+SPL,Shuvam Power Limited,Hydropower,शुभम पावर,1,1
+NHDL,Nepal Hydro Developer Limited,Hydropower,नेपाल हाइड्रो डेभलपर,1,1
+SPDL,Synergy Power Development Limited,Hydropower,सिनर्जी पावर डेभलपमेन्ट,1,1
+HPPL,Himalayan Power Partner Limited,Hydropower,हिमालयन पावर पार्टनर,1,1
+CHL,Chhyangdi Hydropower Company Limited,Hydropower,छ्याङ्दी जलविद्युत,1,1
+SAHAS,Sahas Urja Limited,Hydropower,साहस ऊर्जा,1,1
+JOSHI,Joshi Hydropower Development Company Limited,Hydropower,जोशी जलविद्युत,1,1
+BHPL,Barahi Hydropower Public Limited,Hydropower,बाराही जलविद्युत,1,1
+MHNL,Mountain Hydro Nepal Limited,Hydropower,माउन्टेन हाइड्रो नेपाल,1,1
+PMHPL,Panchakanya Mai Hydropower Limited,Hydropower,पञ्चकन्या माई जलविद्युत,1,1
+UNHPL,Union Hydropower Limited,Hydropower,युनियन जलविद्युत,1,1
+KPCL,Kalika Power Company Limited,Hydropower,कालिका पावर,1,1
+PPCL,Panchthar Power Company Limited,Hydropower,पाँचथर पावर,1,1
+RHGCL,Rapti Hydro & General Construction Limited,Hydropower,राप्ती हाइड्रो एण्ड जनरल कन्स्ट्रक्सन,1,1
+HDHPC,Himal Dolakha Hydropower Company Limited,Hydropower,हिमाल दोलखा जलविद्युत,1,1
+MKHC,Maya Khola Hydropower Company Limited,Hydropower,माया खोला जलविद्युत,1,1
+SSHL,Shiva Shree Hydropower Limited,Hydropower,शिवश्री जलविद्युत,1,1
+RURU,Ru Ru Jalbidhyut Pariyojana Limited,Hydropower,रुरु जलविद्युत परियोजना,1,1
+USHEC,Upper Solu Hydro Electric Company Limited,Hydropower,अपर सोलु हाइड्रो इलेक्ट्रिक,1,1
+EHPL,Eastern Hydropower Limited,Hydropower,इस्टर्न जलविद्युत,1,1
+USHL,Upper Syange Hydropower Limited,Hydropower,अपर स्याङ्गे जलविद्युत,1,1
+GLH,Greenlife Hydropower Limited,Hydropower,ग्रीनलाइफ जलविद्युत,1,1
+BHDC,Bindhyabasini Hydropower Development Company Limited,Hydropower,बिन्ध्यबासिनी जलविद्युत,1,1
+RFPL,River Falls Power Limited,Hydropower,रिभर फल्स पावर,1,1
+BNHC,Buddha Bhumi Nepal Hydropower Company Limited,Hydropower,बुद्धभूमि नेपाल जलविद्युत,1,1
+TAMOR,Sanima Middle Tamor Hydropower Limited,Hydropower,सानिमा मिडल तामोर जलविद्युत,1,1
+SHEL,Singati Hydro Energy Limited,Hydropower,सिङ्गटी हाइड्रो इनर्जी,1,1
+SPHL,Sayapatri Hydropower Limited,Hydropower,सयपत्री जलविद्युत,1,1
+MEN,Mountain Energy Nepal Limited,Hydropower,माउन्टेन इनर्जी नेपाल,1,1
+BEDC,Bhugol Energy Development Company Limited,Hydropower,भूगोल इनर्जी,1,1
+TSHL,Three Star Hydropower Limited,Hydropower,थ्री स्टार जलविद्युत,1,1
+LEC,Liberty Energy Company Limited,Hydropower,लिबर्टी इनर्जी,1,1
+UMRH,United Idi-Mardi and R.B. Hydropower Limited,Hydropower,युनाइटेड इडी मर्दी एण्ड आरबी जलविद्युत,1,1
+UHEWA,Upper Hewakhola Hydropower Company Limited,Hydropower,अपर हेवाखोला जलविद्युत,1,1
+HHL,Himalayan Hydropower Limited,Hydropower,हिमालयन जलविद्युत,1,1
+MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,Hydropower,माथिल्लो माइलुन खोला जलविद्युत,1,1
+TPC,Terhathum Power Company Limited,Hydropower,तेह्रथुम पावर,1,1
+BHL,Balephi Hydropower Limited,Hydropower,बलेफी जलविद्युत,1,1
+PPL,People's Power Limited,Hydropower,पिपुल्स पावर,1,1
+SPC,Samling Power Company Limited,Hydropower,साम्लिङ पावर,1,1
+SGHC,Swet-Ganga Hydropower & Construction Limited,Hydropower,श्वेतगंगा जलविद्युत,1,1
+AHL,Asian Hydropower Limited,Hydropower,एशियन जलविद्युत,1,1
+PHCL,Peoples Hydropower Company Limited,Hydropower,पिपुल्स जलविद्युत,1,1
+SMH,Supermai Hydropower Limited,Hydropower,सुपरमाई जलविद्युत,1,1
+MHCL,Molung Hydropower Company Limited,Hydropower,मोलुङ जलविद्युत,1,1
+SIKLES,Sikles Hydropower Limited,Hydropower,सिक्लेस जलविद्युत,1,1
+GVL,Green Ventures Limited,Hydropower,ग्रीन भेन्चर्स,1,1
+MAKAR,Makar Jitumaya Suri Hydropower Company Limited,Hydropower,मकर जितुमाया सुरी जलविद्युत,1,1
+BGWT,Bhagawati Hydropower Development Company Limited,Hydropower,भगवती जलविद्युत,1,1
+MEL,Modi Energy Limited,Hydropower,मोदी इनर्जी,1,1
+MSHL,Mid Solu Hydropower Company Limited,Hydropower,मिड सोलु जलविद्युत,1,1
+IHL,Ingwa Hydropower Ltd,Hydropower,इङ्वा जलविद्युत,1,1
+SMHL,Super Madi Hydropower Limited,Hydropower,सुपर मादी जलविद्युत,1,1
+MKHL,Mai Khola Hydropower Limited,Hydropower,माई खोला जलविद्युत,1,1
+SMJC,Sagarmatha Jalbidhyut Company Limited,Hydropower,सगरमाथा जलविद्युत,1,1
+RAWA,Rawa Energy Development Ltd.,Hydropower,रावा इनर्जी,1,1
+RIDI,Ridi Power Company Limited,Hydropower,रिडी पावर,1,1
+DOLTI,Dolti Power Company Ltd,Hydropower,डोल्टी पावर,1,1
+MCHL,Menchhiyam Hydropower Limited,Hydropower,मेन्छियाम जलविद्युत,1,1
+ULHC,Upper Lohore Khola Hydropower Company Limited,Hydropower,अपर लोहोरे खोला जलविद्युत,1,1
+CKHL,Chirkhwa Hydro Power Limited,Hydropower,चिर्ख्वा जलविद्युत,1,1
+MANDU,Mandu Hydropower Limited,Hydropower,मान्डु जलविद्युत,1,1
+MEHL,Manakamana Engineering Hydropower Limited,Hydropower,मनकामना इन्जिनियरिङ जलविद्युत,1,1
+VLUCL,Vision Lumbini Urja Company Limited,Hydropower,भिजन लुम्बिनी ऊर्जा,1,1
+KBSH,Kutheli Bukhari Small Hydropower Limited,Hydropower,कुथेली बुखारी जलविद्युत,1,1
+SANVI,Sanvi Energy Limited,Hydropower,सान्भी इनर्जी,1,1
+BHCL,Bikash Hydropower Company Limited,Hydropower,विकास हाइड्रोपावर,1,1
+MABEL,Mabilung Energy Limited,Hydropower,माबिलुङ इनर्जी,1,1
+HIMSTAR,Him Star Urja Company Limited,Hydropower,हिम स्टार ऊर्जा,1,1
+BUNGAL,Bungal Hydro Limited,Hydropower,बुङ्गल हाइड्रो,1,1
+DHEL,Daramkhola Hydro Energy Limited,Hydropower,दरमखोला हाइड्रो इनर्जी,1,1
+HURJA,Himalaya Urja Bikas Company Limited,Hydropower,हिमालय ऊर्जा विकास,1,1
+JHAPA,Jhapa Energy Limited,Hydropower,झापा इनर्जी,1,1
+CIT,Citizen Investment Trust,Investment,नागरिक लगानी कोष,1,1
+HIDCL,Hydroelectricity Investment and Development Company Limited,Investment,जलविद्युत लगानी तथा विकास कम्पनी,1,1
+CHDC,CEDB Holdings Limited,Investment,सीईडीबी होल्डिङ्स,1,1
+ENL,Emerging Nepal Limited,Investment,इमर्जिङ नेपाल,1,1
+NIFRA,Nepal Infrastructure Bank Limited,Investment,नेपाल पूर्वाधार बैंक,1,1
+NRN,NRN Infrastructure and Development Limited,Investment,एनआरएन इन्फ्रास्ट्रक्चर,1,1
+HATHY,Hathway Investment Nepal Limited,Investment,हाथवे इन्भेष्टमेन्ट नेपाल,1,1
+ALICL,Asian Life Insurance Company Limited,Life Insurance,एशियन लाइफ इन्स्योरेन्स,1,1
+CLI,Citizen Life Insurance Company Limited,Life Insurance,सिटिजन लाइफ इन्स्योरेन्स,1,1
+CREST,Crest Micro Life Insurance Limited,Life Insurance,क्रेष्ट माइक्रो लाइफ इन्स्योरेन्स,1,1
+GMLI,Guardian Micro Life Insurance Limited,Life Insurance,गार्जियन माइक्रो लाइफ इन्स्योरेन्स,1,1
+HLI,Himalayan Life Insurance Limited,Life Insurance,हिमालयन लाइफ इन्स्योरेन्स,1,1
+ILI,IME Life Insurance Company Limited,Life Insurance,आइएमई लाइफ इन्स्योरेन्स,1,1
+LICN,Life Insurance Corporation (Nepal) Limited,Life Insurance,लाइफ इन्स्योरेन्स कर्पोरेसन नेपाल,1,1
+NLIC,Nepal Life Insurance Company Limited,Life Insurance,नेपाल लाइफ इन्स्योरेन्स,1,1
+NLICL,National Life Insurance Company Limited,Life Insurance,नेशनल लाइफ इन्स्योरेन्स,1,1
+PMLI,Prabhu Mahalaxmi Life Insurance Limited,Life Insurance,प्रभु महालक्ष्मी लाइफ इन्स्योरेन्स,1,1
+RNLI,Reliable Nepal Life Insurance Limited,Life Insurance,रिलायबल नेपाल लाइफ इन्स्योरेन्स,1,1
+SJLIC,SuryaJyoti Life Insurance Company Limited,Life Insurance,सूर्यज्योति लाइफ इन्स्योरेन्स,1,1
+SNLI,Sun Nepal Life Insurance Company Limited,Life Insurance,सन नेपाल लाइफ इन्स्योरेन्स,1,1
+SRLI,Sanima Reliance Life Insurance Limited,Life Insurance,सानिमा रिलायन्स लाइफ इन्स्योरेन्स,1,1
+BNT,Bottlers Nepal (Terai) Limited,Manufacturing & Processing,बोटलर्स नेपाल तराई,1,1
+UNL,Unilever Nepal Limited,Manufacturing & Processing,युनिलिभर नेपाल,1,1
+HDL,Himalayan Distillery Limited,Manufacturing & Processing,हिमालयन डिस्टिलरी,1,1
+SHIVM,Shivam Cements Limited,Manufacturing & Processing,शिवम सिमेन्ट,1,1
+SARBTM,Sarbottam Cement Limited,Manufacturing & Processing,सर्वोत्तम सिमेन्ट,1,1
+SONA,Sonapur Minerals and Oil Limited,Manufacturing & Processing,सोनापुर मिनरल्स एण्ड आयल,1,1
+GCIL,Ghorahi Cement Industry Limited,Manufacturing & Processing,घोराही सिमेन्ट,1,1
+OMPL,Om Megashree Pharmaceuticals Limited,Manufacturing & Processing,ओम मेगाश्री फर्मास्युटिकल्स,1,1
+SAGAR,Sagar Distillery Limited,Manufacturing & Processing,सागर डिस्टिलरी,1,1
+BNL,Bottlers Nepal (Balaju) Limited,Manufacturing & Processing,बोटलर्स नेपाल बालाजु,1,1
+SAIL,Shreenagar Agritech Industries Limited,Manufacturing & Processing,श्रीनगर एग्रिटेक,1,1
+SYPNL,SY Panel Nepal Limited,Manufacturing & Processing,एसवाई प्यानल नेपाल,1,1
+RSML,Reliance Spinning Mills Ltd,Manufacturing & Processing,रिलायन्स स्पिनिङ मिल्स,1,1
+GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Limited,Microfinance,ग्रामीण विकास लघुवित्त,1,1
+NUBL,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,Microfinance,निर्धन उत्थान लघुवित्त,1,1
+CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,Microfinance,छिमेक लघुवित्त,1,1
+DDBL,Deprosc Laghubitta Bittiya Sanstha Limited,Microfinance,डिप्रोक्स लघुवित्त,1,1
+SWBBL,Swabalamban Laghubitta Bittiya Sanstha Limited,Microfinance,स्वावलम्बन लघुवित्त,1,1
+FMDBL,First Microfinance Laghubitta Bittiya Sanstha Limited,Microfinance,फर्स्ट माइक्रोफाइनान्स लघुवित्त,1,1
+SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,Microfinance,साना किसान विकास लघुवित्त,1,1
+SLBBL,Swarojgar Laghubitta Bittiya Sanstha Limited,Microfinance,स्वरोजगार लघुवित्त,1,1
+KMCDB,Kalika Laghubitta Bittiya Sanstha Limited,Microfinance,कालिका लघुवित्त,1,1
+JSLBB,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,Microfinance,जनउत्थान सामुदायिक लघुवित्त,1,1
+MLBBL,Mithila Laghubitta Bittiya Sanstha Limited,Microfinance,मिथिला लघुवित्त,1,1
+LLBS,Laxmi Laghubitta Bittiya Sanstha Limited,Microfinance,लक्ष्मी लघुवित्त,1,1
+HLBSL,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),Microfinance,हिमालयन लघुवित्त,1,1
+VLBS,Vijaya Laghubitta Bittiya Sanstha Limited,Microfinance,विजय लघुवित्त,1,1
+FOWAD,Forward Microfinance Laghubitta Bittiya Sanstha Limited,Microfinance,फरवार्ड लघुवित्त,1,1
+MERO,Mero Microfinance Laghubitta Bittiya Sanstha Limited,Microfinance,मेरो माइक्रोफाइनान्स लघुवित्त,1,1
+GILB,Global IME Laghubitta Bittiya Sanstha Limited,Microfinance,ग्लोबल आइएमई लघुवित्त,1,1
+RSDC,RSDC Laghubitta Bittiya Sanstha Limited,Microfinance,आरएसडीसी लघुवित्त,1,1
+NMBMF,NMB Laghubitta Bittiya Sanstha Limited,Microfinance,एनएमबी लघुवित्त,1,1
+SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,Microfinance,समता घरेलु लघुवित्त,1,1
+MSLB,Mahuli Laghubitta Bittiya Sanstha Limited,Microfinance,माहुली लघुवित्त,1,1
+SLBSL,Samudayik Laghubitta Bittiya Sanstha Limited,Microfinance,सामुदायिक लघुवित्त,1,1
+NADEP,NADEP Laghubitta Bittiya Sanstha Limited,Microfinance,नाडेप लघुवित्त,1,1
+SMB,Support Laghubitta Bittiya Sanstha Limited,Microfinance,सपोर्ट लघुवित्त,1,1
+GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,Microfinance,गणपति लघुवित्त,1,1
+ALBSL,Asha Laghubitta Bittiya Sanstha Limited,Microfinance,आशा लघुवित्त,1,1
+ILBS,Infinity Laghubitta Bittiya Sanstha Limited,Microfinance,इन्फिनिटी लघुवित्त,1,1
+SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,Microfinance,स्वाभिमान लघुवित्त,1,1
+GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,Microfinance,गुराँस लघुवित्त,1,1
+NICLBSL,NIC Asia Laghubitta Bittiya Sanstha Limited,Microfinance,एनआईसी एशिया लघुवित्त,1,1
+SWASTIK,Swastik Laghubitta Bittiya Sanstha Limited,Microfinance,स्वस्तिक लघुवित्त,1,1
+JBLB,Jeevan Bikas Laghubitta Bittiya Sanstha Limited,Microfinance,जीवन विकास लघुवित्त,1,1
+MLBS,Manushi Laghubitta Bittiya Sanstha Limited,Microfinance,मनुषी लघुवित्त,1,1
+MLBSL,Mahila Laghubitta Bittiya Sanstha Limited,Microfinance,महिला लघुवित्त,1,1
+SAMAJ,Samaj Laghubitta Bittiya Sanstha Limited,Microfinance,समाज लघुवित्त,1,1
+SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,Microfinance,सृजनशील लघुवित्त,1,1
+ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,Microfinance,उपकार लघुवित्त,1,1
+NESDO,Nesdo Sambridha Laghubitta Bittiya Sanstha Limited,Microfinance,नेस्डो समृद्ध लघुवित्त,1,1
+USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,Microfinance,उन्नति सहकार्य लघुवित्त,1,1
+UNLB,Unique Nepal Laghubitta Bittiya Sanstha Limited,Microfinance,युनिक नेपाल लघुवित्त,1,1
+DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,Microfinance,धौलागिरी लघुवित्त,1,1
+ANLB,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,Microfinance,आत्मनिर्भर लघुवित्त,1,1
+CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,Microfinance,सीवाईसी नेपाल लघुवित्त,1,1
+AVYAN,Aviyan Laghubitta Bittiya Sanstha Limited,Microfinance,अभियान लघुवित्त,1,1
+ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,Microfinance,आरम्भ चौतारी लघुवित्त,1,1
+WNLB,Wean Nepal Laghubitta Bittiya Sanstha Limited,Microfinance,वीन नेपाल लघुवित्त,1,1
+SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,Microfinance,सूर्योदय वोमी लघुवित्त,1,1
+NMLBBL,Nerude Mirmire Laghubitta Bittiya Sanstha Limited,Microfinance,नेरुडे मिर्मिरे लघुवित्त,1,1
+NMFBS,National Laghubitta Bittiya Sanstha Limited,Microfinance,नेशनल लघुवित्त,1,1
+SMPDA,Sampada Laghubitta Bittiya Sanstha Limited,Microfinance,सम्पदा लघुवित्त,1,1
+MATRI,Matribhumi Laghubitta Bittiya Sanstha Limited,Microfinance,मातृभूमि लघुवित्त,1,1
+RBCL,Rastriya Beema Company Limited,Non Life Insurance,राष्ट्रिय बीमा कम्पनी,1,1
+NICL,Nepal Insurance Company Limited,Non Life Insurance,नेपाल इन्स्योरेन्स,1,1
+NIL,Neco Insurance Limited,Non Life Insurance,नेको इन्स्योरेन्स,1,1
+SICL,Shikhar Insurance Company Limited,Non Life Insurance,शिखर इन्स्योरेन्स,1,1
+NLG,NLG Insurance Company Limited,Non Life Insurance,एनएलजी इन्स्योरेन्स,1,1
+PRIN,Prabhu Insurance Company Limited,Non Life Insurance,प्रभु इन्स्योरेन्स,1,1
+HEI,Himalayan Everest Insurance Limited,Non Life Insurance,हिमालयन एभरेष्ट इन्स्योरेन्स,1,1
+SGIC,Sanima GIC Insurance Limited,Non Life Insurance,सानिमा जीआईसी इन्स्योरेन्स,1,1
+SPIL,Siddhartha Premier Insurance Limited,Non Life Insurance,सिद्धार्थ प्रिमियर इन्स्योरेन्स,1,1
+SALICO,Sagarmatha Lumbini Insurance Company Limited,Non Life Insurance,सगरमाथा लुम्बिनी इन्स्योरेन्स,1,1
+IGI,IGI Prudential Insurance Limited,Non Life Insurance,आईजीआई प्रुडेन्सियल इन्स्योरेन्स,1,1
+UAIL,United Ajod Insurance Limited,Non Life Insurance,युनाइटेड अजोड इन्स्योरेन्स,1,1
+NMIC,Nepal Micro Insurance Company Limited,Non Life Insurance,नेपाल माइक्रो इन्स्योरेन्स,1,1
+NTC,Nepal Doorsanchar Company Limited,Others,नेपाल टेलिकम,1,1
+NRIC,Nepal Reinsurance Company Limited,Others,नेपाल पुनर्बीमा,1,1
+HRL,Himalayan Reinsurance Limited,Others,हिमालयन रिइन्स्योरेन्स,1,1
+TTL,Trade Tower Limited,Others,ट्रेड टावर,1,1
+MKCL,Muktinath Krishi Company Limited,Others,मुक्तिनाथ कृषि कम्पनी,1,1
+NWCL,Nepal Warehousing Company Limited,Others,नेपाल वेयरहाउजिङ,1,1
+NRM,Nepal Republic Media Limited,Others,नेपाल रिपब्लिक मिडिया,1,1
+PURE,Pure Energy Limited,Others,प्योर इनर्जी,1,1
+BBC,Bishal Bazar Company Limited,Trading,विशाल बजार,1,1
+STC,Salt Trading Corporation,Trading,साल्ट ट्रेडिङ,1,1
+HFIN,Hotel Forest Inn Limited,Hotels & Tourism,होटल फरेष्ट इन,1,1
+SKHL,Super Khudi Hydropower Limited,Hydropower,सुपर खुदी जलविद्युत,1,1
+SOHL,Solu Hydropower Limited,Hydropower,सोलु जलविद्युत,1,1
+RLEL,Ridge Energy Line Limited,Hydropower,रिज इनर्जी लाइन,1,1
+SKHEL,Suryakunda Hydro Electric Limited,Hydropower,सूर्यकुण्ड हाइड्रो इलेक्ट्रिक,1,1
+SIPD,Shikhar Power Development Limited,Hydropower,शिखर पावर डेभलपमेन्ट,1,1
+PCIL,Palpa Cement Industries Limited,Manufacturing & Processing,पाल्पा सिमेन्ट,1,1
+SABBL,Salapa Bikas Bank Limited,Development Bank,सालपा विकास बैंक,1,1
+BJHL,Bhujung Hydropower Limited,Hydropower,भुजुङ जलविद्युत,1,1
+KHPL,Kalinchowk Hydropower Limited,Hydropower,कालिन्चोक जलविद्युत,1,1
+SOPL,Sopan Pharmaceuticals Limited,Manufacturing & Processing,सोपान फर्मास्युटिकल्स,1,1
+APHL,Appolo Hydropower Limited,Hydropower,अपोलो जलविद्युत,1,1
+YMHL,Yambaling Hydropower Limited,Hydropower,याम्बालिङ जलविद्युत,1,1
+TPKHL,Taksar Pikhuwa Khola Hydropower Limited,Hydropower,टक्सार पिखुवा खोला जलविद्युत,1,1
+SNORL,Snow Rivers Limited,Hydropower,स्नो रिभर्स,1,1
+SGHL,Sanigad Hydro Limited,Hydropower,सानीगाड हाइड्रो,1,1
+KAHL,Kalanga Hydro Limited,Hydropower,कालंगा हाइड्रो,1,1
+NHPC,National Hydro Power Company Limited,Hydropower,नेशनल जलविद्युत,0,1
+CHCL,Chilime Hydro power Company Limited,Hydropower,चिलिमे हाइड्रोपावर,0,1
+AHPC,Arun Valley Hydropower Development Company Limited,Hydropower,अरुण भ्याली हाइड्रोपावर,0,1
+SJCL,Sanjen Jalavidhyut Company Limited,Hydropower,सान्जेन हाइड्रोपावर,0,1
+SHPC,Sanima Mai Hydropower Limited,Hydropower,सानिमा माई हाइड्रोपावर,0,1
+RHPL,Rasuwagadhi Hydropower Company Limited,Hydropower,रसुवागढी हाइड्रोपावर,0,1
+BARUN,Barun Hydropower Company Limited,Hydropower,बरुण हाइड्रोपावर,0,1
+UPPER,Upper Tamakoshi Hydropower Limited,Hydropower,अपर तामाकोशी हाइड्रोपावर,0,1
+MBJC,Madhya Bhotekoshi Jalavidyut Company Limited,Hydropower,मध्यभोटेकोशी हाइड्रोपावर,0,1
+MKJC,Mailung Khola Jal Vidhyut Company Limited,Hydropower,माइलुङ खोला हाइड्रोपावर,0,1
+DORDI,Dordi Khola Hydropower Company Limited,Hydropower,दोर्दी खोला हाइड्रोपावर,0,1
+TVCL,Trishuli Jal Vidhyut Company Limited,Hydropower,त्रिशूली हाइड्रोपावर,0,1
+MHL,Mandakini Hydropower Limited,Hydropower,मन्दाकिनी हाइड्रोपावर,0,1
+DHPL,Dibyashwari Hydropower Company Limited,Hydropower,दिव्यश्वरी हाइड्रोपावर,0,1
+NYADI,Nyadi Hydropower Limited,Hydropower,न्यादी हाइड्रोपावर,0,1
+KKHC,Khani Khola Hydropower Company Limited,Hydropower,खानीखोला हाइड्रोपावर,0,1
+UMHL,United Modi Hydropower Limited,Hydropower,युनाइटेड मोदी हाइड्रोपावर,0,1
+AKJCL,Ankhukhola Hydropower Company Limited,Hydropower,आँखुखोला हाइड्रोपावर,0,1
+CHL,Chhyangdi Hydropower Company Limited,Hydropower,छ्याङ्दी हाइड्रोपावर,0,1
+JOSHI,Joshi Hydropower Development Company Limited,Hydropower,जोशी हाइड्रोपावर,0,1
+BHPL,Barahi Hydropower Public Limited,Hydropower,बाराही हाइड्रोपावर,0,1
+PMHPL,Panchakanya Mai Hydropower Limited,Hydropower,पञ्चकन्या माई हाइड्रोपावर,0,1
+UNHPL,Union Hydropower Limited,Hydropower,युनियन हाइड्रोपावर,0,1
+HDHPC,Himal Dolakha Hydropower Company Limited,Hydropower,हिमाल दोलखा हाइड्रोपावर,0,1
+MKHC,Maya Khola Hydropower Company Limited,Hydropower,माया खोला हाइड्रोपावर,0,1
+SSHL,Shiva Shree Hydropower Limited,Hydropower,शिवश्री हाइड्रोपावर,0,1
+RURU,Ru Ru Jalbidhyut Pariyojana Limited,Hydropower,रुरु हाइड्रोपावर परियोजना,0,1
+EHPL,Eastern Hydropower Limited,Hydropower,इस्टर्न हाइड्रोपावर,0,1
+USHL,Upper Syange Hydropower Limited,Hydropower,अपर स्याङ्गे हाइड्रोपावर,0,1
+GLH,Greenlife Hydropower Limited,Hydropower,ग्रीनलाइफ हाइड्रोपावर,0,1
+BHDC,Bindhyabasini Hydropower Development Company Limited,Hydropower,बिन्ध्यबासिनी हाइड्रोपावर,0,1
+BNHC,Buddha Bhumi Nepal Hydropower Company Limited,Hydropower,बुद्धभूमि नेपाल हाइड्रोपावर,0,1
+TAMOR,Sanima Middle Tamor Hydropower Limited,Hydropower,सानिमा मिडल तामोर हाइड्रोपावर,0,1
+SPHL,Sayapatri Hydropower Limited,Hydropower,सयपत्री हाइड्रोपावर,0,1
+TSHL,Three Star Hydropower Limited,Hydropower,थ्री स्टार हाइड्रोपावर,0,1
+UMRH,United Idi-Mardi and R.B. Hydropower Limited,Hydropower,युनाइटेड इडी मर्दी एण्ड आरबी हाइड्रोपावर,0,1
+UHEWA,Upper Hewakhola Hydropower Company Limited,Hydropower,अपर हेवाखोला हाइड्रोपावर,0,1
+HHL,Himalayan Hydropower Limited,Hydropower,हिमालयन हाइड्रोपावर,0,1
+MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,Hydropower,माथिल्लो माइलुन खोला हाइड्रोपावर,0,1
+BHL,Balephi Hydropower Limited,Hydropower,बलेफी हाइड्रोपावर,0,1
+SGHC,Swet-Ganga Hydropower & Construction Limited,Hydropower,श्वेतगंगा हाइड्रोपावर,0,1
+AHL,Asian Hydropower Limited,Hydropower,एशियन हाइड्रोपावर,0,1
+PHCL,Peoples Hydropower Company Limited,Hydropower,पिपुल्स हाइड्रोपावर,0,1
+SMH,Supermai Hydropower Limited,Hydropower,सुपरमाई हाइड्रोपावर,0,1
+MHCL,Molung Hydropower Company Limited,Hydropower,मोलुङ हाइड्रोपावर,0,1
+SIKLES,Sikles Hydropower Limited,Hydropower,सिक्लेस हाइड्रोपावर,0,1
+MAKAR,Makar Jitumaya Suri Hydropower Company Limited,Hydropower,मकर जितुमाया सुरी हाइड्रोपावर,0,1
+BGWT,Bhagawati Hydropower Development Company Limited,Hydropower,भगवती हाइड्रोपावर,0,1
+MSHL,Mid Solu Hydropower Company Limited,Hydropower,मिड सोलु हाइड्रोपावर,0,1
+IHL,Ingwa Hydropower Ltd,Hydropower,इङ्वा हाइड्रोपावर,0,1
+SMHL,Super Madi Hydropower Limited,Hydropower,सुपर मादी हाइड्रोपावर,0,1
+MKHL,Mai Khola Hydropower Limited,Hydropower,माई खोला हाइड्रोपावर,0,1
+SMJC,Sagarmatha Jalbidhyut Company Limited,Hydropower,सगरमाथा हाइड्रोपावर,0,1
+MCHL,Menchhiyam Hydropower Limited,Hydropower,मेन्छियाम हाइड्रोपावर,0,1
+ULHC,Upper Lohore Khola Hydropower Company Limited,Hydropower,अपर लोहोरे खोला हाइड्रोपावर,0,1
+CKHL,Chirkhwa Hydro Power Limited,Hydropower,चिर्ख्वा हाइड्रोपावर,0,1
+MANDU,Mandu Hydropower Limited,Hydropower,मान्डु हाइड्रोपावर,0,1
+MEHL,Manakamana Engineering Hydropower Limited,Hydropower,मनकामना इन्जिनियरिङ हाइड्रोपावर,0,1
+KBSH,Kutheli Bukhari Small Hydropower Limited,Hydropower,कुथेली बुखारी हाइड्रोपावर,0,1
+SKHL,Super Khudi Hydropower Limited,Hydropower,सुपर खुदी हाइड्रोपावर,0,1
+SOHL,Solu Hydropower Limited,Hydropower,सोलु हाइड्रोपावर,0,1
+BJHL,Bhujung Hydropower Limited,Hydropower,भुजुङ हाइड्रोपावर,0,1
+KHPL,Kalinchowk Hydropower Limited,Hydropower,कालिन्चोक हाइड्रोपावर,0,1
+APHL,Appolo Hydropower Limited,Hydropower,अपोलो हाइड्रोपावर,0,1
+YMHL,Yambaling Hydropower Limited,Hydropower,याम्बालिङ हाइड्रोपावर,0,1
+TPKHL,Taksar Pikhuwa Khola Hydropower Limited,Hydropower,टक्सार पिखुवा खोला हाइड्रोपावर,0,1
+NTC,Nepal Doorsanchar Company Limited,Others,नेपाल दूरसञ्चार कम्पनी,0,1
+NIFRA,Nepal Infrastructure Bank Limited,Investment,नेपाल इन्फ्रास्ट्रक्चर बैंक,0,1
+HIDCL,Hydroelectricity Investment and Development Company Limited,Investment,हाइड्रोइलेक्ट्रिसिटी इन्भेष्टमेन्ट एण्ड डेभलपमेन्ट कम्पनी,0,1
+LICN,Life Insurance Corporation (Nepal) Limited,Life Insurance,एलआईसी नेपाल,0,1
+CIT,Citizen Investment Trust,Investment,सिटिजन इन्भेष्टमेन्ट ट्रष्ट,0,1
+UPPER,Upper Tamakoshi Hydropower Limited,Hydropower,माथिल्लो तामाकोशी,0,1
+SKBBL,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,Microfinance,साना किसान लघुवित्त,0,1

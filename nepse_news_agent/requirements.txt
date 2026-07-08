@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+rapidfuzz
+pandas
+openpyxl
+dash
+plotly
+ollama
+python-dateutil
