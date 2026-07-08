@@ -3,10 +3,11 @@ venv/
 __pycache__/
 *.pyc
 
-# runtime data -- scraped article cache is disposable and rebuilt by the
-# pipeline; full third-party article text doesn't belong in the repo
-nepse_news_agent/data/news_cache.db
-nepse_news_agent/logs/
+# data/news_cache.db IS committed (a snapshot so the dashboard works on a
+# fresh clone) -- but blank the raw_text column before pushing updates, full
+# third-party article text doesn't belong in a public repo:
+#   sqlite3 data/news_cache.db "UPDATE news_articles SET raw_text=''; VACUUM;"
+logs/
 
 # local tooling
 .claude/
